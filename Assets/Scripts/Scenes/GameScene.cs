@@ -14,6 +14,9 @@ public class GameScene : BaseScene
         base.Init();
         _SceneType = Define.Scene.Game;
         Managers.UI.ShowSceneUI<UI_Inven>();
+
+        for (int i = 0; i < 5; ++i)
+            Managers.Resource.Instantiate("UnityChang");
     }
     public override void Clear()
     {
