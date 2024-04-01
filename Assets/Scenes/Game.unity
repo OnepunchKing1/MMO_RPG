@@ -167,6 +167,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &259731850
 GameObject:
   m_ObjectHideFlags: 0
@@ -212,6 +213,9 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &286665000
+=======
+--- !u!1 &181176353
+>>>>>>> parent of fe2636c (1234)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -449,7 +453,11 @@ Transform:
 >>>>>>> Stashed changes
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: -0.42797628, y: 1.6559557, z: 1.5914602}
+=======
+  m_LocalPosition: {x: 462.6723, y: 226.24088, z: -3.058864}
+>>>>>>> parent of fe2636c (1234)
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -831,7 +839,55 @@ Transform:
 >>>>>>> Stashed changes
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: -0.42797628, y: 1.6559557, z: 1.5914602}
+=======
+  m_LocalPosition: {x: 462.6723, y: 226.24088, z: -3.058864}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1616620157
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1616620159}
+  - component: {fileID: 1616620158}
+  m_Layer: 0
+  m_Name: '@@Test@@ (1)'
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1616620158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1616620157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0a3bb68124b78f45879170f7b55190e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!4 &1616620159
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1616620157}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 462.6723, y: 226.24088, z: -3.058864}
+>>>>>>> parent of fe2636c (1234)
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1255,6 +1311,7 @@ SceneRoots:
   - {fileID: 1753425620}
   - {fileID: 1021941637}
   - {fileID: 857697854}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
   - {fileID: 1397324957}
   - {fileID: 771532186}
@@ -1272,3 +1329,19 @@ SceneRoots:
   - {fileID: 1985484307}
   - {fileID: 1172094719}
 >>>>>>> Stashed changes
+=======
+  - {fileID: 1241200211}
+  - {fileID: 1616620159}
+  - {fileID: 822760763}
+  - {fileID: 383548787}
+  - {fileID: 937705028}
+  - {fileID: 298322190}
+  - {fileID: 2141915994}
+  - {fileID: 1807303701}
+  - {fileID: 99905498}
+  - {fileID: 181176355}
+  - {fileID: 941982842}
+  - {fileID: 1763762303}
+  - {fileID: 1308117475}
+  - {fileID: 863393666}
+>>>>>>> parent of fe2636c (1234)
